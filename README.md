@@ -8,6 +8,8 @@
 
 ## Tech Stack
 
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-9A6700?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0969DA?style=flat-square&logo=python&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-8250DF?style=flat-square&logo=spring&logoColor=white)
@@ -16,7 +18,11 @@
 ![Agent Engineering](https://img.shields.io/badge/Agent_Engineering-8250DF?style=flat-square)
 ![Vue](https://img.shields.io/badge/Vue-0969DA?style=flat-square&logo=vuedotjs&logoColor=white)
 
+</div>
+
 ## Open Source Focus Areas
+
+<div align="center">
 
 ![MCP](https://img.shields.io/badge/MCP-CF222E?style=flat-square)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-0A3069?style=flat-square)
@@ -25,16 +31,41 @@
 ![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-8250DF?style=flat-square)
 ![Spring AI Ecosystem](https://img.shields.io/badge/Spring_AI_Ecosystem-9A6700?style=flat-square)
 
+</div>
+
 ## Open Source Contribution Dashboard
+
+<div align="center">
 
 A focused dashboard for contributions to large open-source projects, with direct evidence links.
 
-| Metric | Count | Signal |
-| --- | ---: | --- |
-| [Merged PRs](https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Amerged&type=pullrequests) | **4+** | Accepted by maintainers |
-| [Upstream Commit](https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb) | **1+** | Landed as author commit |
-| [Open PRs](https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Aopen&type=pullrequests) | **5+** | Under review |
-| [Major Projects](#open-source-portfolio) | **5** | AI infra ecosystem |
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Count</th>
+    <th>Signal</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Amerged&type=pullrequests">Merged PRs</a></td>
+    <td align="center"><b>4+</b></td>
+    <td>Accepted by maintainers</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">Upstream Commit</a></td>
+    <td align="center"><b>1+</b></td>
+    <td>Landed as author commit</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Aopen&type=pullrequests">Open PRs</a></td>
+    <td align="center"><b>5+</b></td>
+    <td>Under review</td>
+  </tr>
+  <tr>
+    <td><a href="#open-source-portfolio">Major Projects</a></td>
+    <td align="center"><b>5</b></td>
+    <td>AI infra ecosystem</td>
+  </tr>
+</table>
 
 <!-- Profile README updated: 2026-07-08 -->
 
@@ -70,7 +101,11 @@ A focused dashboard for contributions to large open-source projects, with direct
   </tr>
 </table>
 
+</div>
+
 ## Open Source Portfolio
+
+<div align="center">
 
 My own open-source projects and large open-source projects I have contributed to.
 
@@ -104,3 +139,5 @@ My own open-source projects and large open-source projects I have contributed to
     </td>
   </tr>
 </table>
+
+</div>
