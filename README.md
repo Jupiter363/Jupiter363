@@ -62,6 +62,8 @@ A focused dashboard for contributions to large open-source projects, with direct
   </tr>
 </table>
 
+<!-- Profile README updated: 2026-07-08 -->
+
 <table>
   <tr>
     <th align="left">Merged / Accepted</th>
