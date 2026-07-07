@@ -8,59 +8,33 @@
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-9A6700?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0969DA?style=for-the-badge&logo=python&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-8250DF?style=for-the-badge&logo=spring&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1F883D?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A3069?style=for-the-badge)
-![Agent Engineering](https://img.shields.io/badge/Agent_Engineering-8250DF?style=for-the-badge)
-![Vue](https://img.shields.io/badge/Vue-0969DA?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-9A6700?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0969DA?style=flat-square&logo=python&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-8250DF?style=flat-square&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F883D?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A3069?style=flat-square)
+![Agent Engineering](https://img.shields.io/badge/Agent_Engineering-8250DF?style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-0969DA?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ## Open Source Focus Areas
 
-![MCP](https://img.shields.io/badge/MCP-CF222E?style=for-the-badge)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-0A3069?style=for-the-badge)
-![LLM Gateway](https://img.shields.io/badge/LLM_Gateway-1F883D?style=for-the-badge)
-![Agent Frameworks](https://img.shields.io/badge/Agent_Frameworks-0969DA?style=for-the-badge)
-![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-8250DF?style=for-the-badge)
-![Spring AI Ecosystem](https://img.shields.io/badge/Spring_AI_Ecosystem-9A6700?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-CF222E?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0A3069?style=flat-square)
+![LLM Gateway](https://img.shields.io/badge/LLM_Gateway-1F883D?style=flat-square)
+![Agent Frameworks](https://img.shields.io/badge/Agent_Frameworks-0969DA?style=flat-square)
+![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-8250DF?style=flat-square)
+![Spring AI Ecosystem](https://img.shields.io/badge/Spring_AI_Ecosystem-9A6700?style=flat-square)
 
 ## Open Source Contribution Dashboard
 
 A focused dashboard for contributions to large open-source projects, with direct evidence links.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Amerged&type=pullrequests">
-        <img alt="Merged PRs" src="https://img.shields.io/badge/Merged_PRs-4%2B-1F883D?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <br>
-      <sub>Accepted by maintainers</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">
-        <img alt="Upstream Commit" src="https://img.shields.io/badge/Upstream_Commit-1%2B-8250DF?style=for-the-badge&logo=git&logoColor=white">
-      </a>
-      <br>
-      <sub>Landed as author commit</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Aopen&type=pullrequests">
-        <img alt="Open PRs" src="https://img.shields.io/badge/Open_PRs-5%2B-0969DA?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-      <br>
-      <sub>Under review</sub>
-    </td>
-    <td align="center">
-      <a href="#open-source-portfolio">
-        <img alt="Major Projects" src="https://img.shields.io/badge/Major_Projects-5-9A6700?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-      </a>
-      <br>
-      <sub>AI infra ecosystem</sub>
-    </td>
-  </tr>
-</table>
+| Metric | Count | Signal |
+| --- | ---: | --- |
+| [Merged PRs](https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Amerged&type=pullrequests) | **4+** | Accepted by maintainers |
+| [Upstream Commit](https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb) | **1+** | Landed as author commit |
+| [Open PRs](https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Aopen&type=pullrequests) | **5+** | Under review |
+| [Major Projects](#open-source-portfolio) | **5** | AI infra ecosystem |
 
 <!-- Profile README updated: 2026-07-08 -->
 
@@ -103,13 +77,13 @@ My own open-source projects and large open-source projects I have contributed to
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jupiter363/AfterSaleFlow-Agent">AfterSaleFlow-Agent</a></h3>
+      <b><a href="https://github.com/Jupiter363/AfterSaleFlow-Agent">AfterSaleFlow-Agent</a></b><br>
       Human-review-gated order fulfillment dispute adjudication system with agent runtime, workflow orchestration, and LLM gateway integration.
       <br><br>
       <sub>Java / Python / Vue / Agent Engineering</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jupiter363/shortlink">shortlink</a></h3>
+      <b><a href="https://github.com/Jupiter363/shortlink">shortlink</a></b><br>
       Short-link platform extended with intelligent delivery and analysis agent capabilities across admin, gateway, and agent-service modules.
       <br><br>
       <sub>Java / Agent Frameworks / LLM Gateway</sub>
@@ -117,13 +91,13 @@ My own open-source projects and large open-source projects I have contributed to
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/alibaba/spring-ai-alibaba">Spring AI Alibaba</a></h3>
+      <b><a href="https://github.com/alibaba/spring-ai-alibaba">Spring AI Alibaba</a></b><br>
       Contributions around DashScope integration, Spring AI compatibility, documentation clarity, and RAG-related ingestion behavior.
       <br><br>
       <sub>Spring AI / Java / DashScope</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/BerriAI/litellm">LiteLLM</a></h3>
+      <b><a href="https://github.com/BerriAI/litellm">LiteLLM</a></b><br>
       Contributions focused on LLM gateway behavior, MCP protocol edge cases, request routing, and passthrough security details.
       <br><br>
       <sub>LLM Gateway / MCP / Python</sub>
