@@ -6,7 +6,7 @@
 
 </div>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 </div>
 
-## Open Source Focus Areas
+<h2 align="center">Open Source Focus Areas</h2>
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 </div>
 
-## Open Source Contribution Dashboard
+<h2 align="center">Open Source Contribution Dashboard</h2>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ A focused dashboard for contributions to large open-source projects, with direct
 
 </div>
 
-## Open Source Portfolio
+<h2 align="center">Open Source Portfolio</h2>
 
 <div align="center">
 
