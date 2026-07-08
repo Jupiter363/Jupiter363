@@ -103,40 +103,37 @@ A focused dashboard for contributions to large open-source projects, with direct
 
 </div>
 
-<h2 align="center">Open Source Portfolio</h2>
+<h2 align="center">Representative Work</h2>
 
 <div align="center">
 
-My own open-source projects and large open-source projects I have contributed to.
+A compact map of my own projects and large open-source ecosystems I have contributed to.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Jupiter363/AfterSaleFlow-Agent">AfterSaleFlow-Agent</a></b><br>
-      Human-review-gated order fulfillment dispute adjudication system with agent runtime, workflow orchestration, and LLM gateway integration.
-      <br><br>
-      <sub>Java / Python / Vue / Agent Engineering</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Jupiter363/shortlink">shortlink</a></b><br>
-      Short-link platform extended with intelligent delivery and analysis agent capabilities across admin, gateway, and agent-service modules.
-      <br><br>
-      <sub>Java / Agent Frameworks / LLM Gateway</sub>
-    </td>
+    <th>Work</th>
+    <th>Why it matters</th>
+    <th>Evidence</th>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/alibaba/spring-ai-alibaba">Spring AI Alibaba</a></b><br>
-      Contributions around DashScope integration, Spring AI compatibility, documentation clarity, and RAG-related ingestion behavior.
-      <br><br>
-      <sub>Spring AI / Java / DashScope</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/BerriAI/litellm">LiteLLM</a></b><br>
-      Contributions focused on LLM gateway behavior, MCP protocol edge cases, request routing, and passthrough security details.
-      <br><br>
-      <sub>LLM Gateway / MCP / Python</sub>
-    </td>
+    <td><b>AfterSaleFlow-Agent</b></td>
+    <td>Own project for production-style agent harness, backend workflow, and human-review-gated AI applications.</td>
+    <td><a href="https://github.com/Jupiter363/AfterSaleFlow-Agent">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>shortlink</b></td>
+    <td>Own Java service project extended with intelligent delivery and analysis agent capabilities.</td>
+    <td><a href="https://github.com/Jupiter363/shortlink">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Spring AI Alibaba</b></td>
+    <td>Official ecosystem contributions around DashScope integration, Spring AI compatibility, docs, and RAG behavior.</td>
+    <td><a href="https://github.com/alibaba/spring-ai-alibaba/pull/4755">PR</a> · <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">Commit</a></td>
+  </tr>
+  <tr>
+    <td><b>LiteLLM</b></td>
+    <td>Large OSS contribution work around MCP protocol edge cases, LLM gateway routing, and passthrough security details.</td>
+    <td><a href="https://github.com/BerriAI/litellm/pull/32244">PRs</a></td>
   </tr>
 </table>
 
