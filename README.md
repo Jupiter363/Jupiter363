@@ -2,7 +2,7 @@
 
 # Hi, I'm Jupiter
 
-&emsp;&emsp;Graduate student at The Chinese University of Hong Kong, Shenzhen, and backend development engineer. Researching AI applications and agent harness engineering, with a focus on production-grade LLM systems. Open-source contributor to the official Spring AI Alibaba ecosystem.
+&emsp;&emsp;Graduate student at The Chinese University of Hong Kong, and backend development engineer. Researching AI applications and agent harness engineering, with a focus on production-grade LLM systems. Open-source contributor to the official Spring AI Alibaba ecosystem.
 
 </div>
 
