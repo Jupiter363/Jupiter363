@@ -47,7 +47,7 @@ A focused dashboard for contributions to large open-source projects, with direct
   </tr>
   <tr>
     <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Amerged&type=pullrequests">Merged PRs</a></td>
-    <td align="center"><b>4+</b></td>
+    <td align="center"><b>6</b></td>
     <td>Accepted by maintainers</td>
   </tr>
   <tr>
@@ -57,49 +57,17 @@ A focused dashboard for contributions to large open-source projects, with direct
   </tr>
   <tr>
     <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Aopen&type=pullrequests">Open PRs</a></td>
-    <td align="center"><b>5+</b></td>
+    <td align="center"><b>18</b></td>
     <td>Under review</td>
   </tr>
   <tr>
-    <td><a href="#open-source-portfolio">Major Projects</a></td>
-    <td align="center"><b>5</b></td>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363&type=pullrequests">Upstream Repositories</a></td>
+    <td align="center"><b>9</b></td>
     <td>AI infra ecosystem</td>
   </tr>
 </table>
 
-<!-- Profile README updated: 2026-07-08 -->
-
-<table>
-  <tr>
-    <th align="left">Merged / Accepted</th>
-    <th align="left">Under Review</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>Spring AI 2.0 compatibility fix</b><br>
-      <sub>spring-ai-extensions · Java / API compatibility</sub><br>
-      <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">Commit</a>
-      <br><br>
-      <b>DashScope and Bailian integration fixes</b><br>
-      <sub>Spring AI Alibaba ecosystem · RAG / docs</sub><br>
-      <a href="https://github.com/alibaba/spring-ai-alibaba/pull/4755">spring-ai-alibaba#4755</a> ·
-      <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/pull/269">spring-ai-extensions#269</a> ·
-      <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/pull/286">spring-ai-extensions#286</a>
-    </td>
-    <td valign="top">
-      <b>MCP gateway edge cases</b><br>
-      <sub>LiteLLM · pagination / UTF-8 / passthrough auth</sub><br>
-      <a href="https://github.com/BerriAI/litellm/pull/32244">litellm#32244</a> ·
-      <a href="https://github.com/BerriAI/litellm/pull/32253">litellm#32253</a> ·
-      <a href="https://github.com/BerriAI/litellm/pull/32263">litellm#32263</a>
-      <br><br>
-      <b>Agent runtime correctness</b><br>
-      <sub>browser-use / Agno · redaction and event behavior</sub><br>
-      <a href="https://github.com/browser-use/browser-use/pull/5144">browser-use#5144</a> ·
-      <a href="https://github.com/agno-agi/agno/pull/8772">agno#8772</a>
-    </td>
-  </tr>
-</table>
+<!-- Profile README updated: 2026-07-17 -->
 
 </div>
 
