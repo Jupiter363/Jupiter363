@@ -2,7 +2,7 @@
 
 # Hi, I'm Jupiter
 
-&emsp;&emsp;Graduate student at The Chinese University of Hong Kong, and backend development engineer. Researching AI applications and agent harness engineering, with a focus on production-grade LLM systems. 
+&emsp;&emsp;Graduate student at The Chinese University of Hong Kong and backend development engineer, researching AI applications and agent harness engineering with a focus on production-grade LLM systems. Open-source contributor across Spring AI Alibaba, Hermes Agent, and AI infrastructure, including an upstream P0 reliability fix for Hermes Agent's MCP gateway.
 
 </div>
 
@@ -26,6 +26,7 @@
 
 ![MCP](https://img.shields.io/badge/MCP-CF222E?style=flat-square)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-0A3069?style=flat-square)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-CF222E?style=flat-square)
 ![LLM Gateway](https://img.shields.io/badge/LLM_Gateway-1F883D?style=flat-square)
 ![Agent Frameworks](https://img.shields.io/badge/Agent_Frameworks-0969DA?style=flat-square)
 ![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-8250DF?style=flat-square)
@@ -46,28 +47,28 @@ A focused dashboard for contributions to large open-source projects, with direct
     <th>Signal</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Amerged&type=pullrequests">Merged PRs</a></td>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363+is%3Amerged&type=pullrequests">Merged Upstream PRs</a></td>
     <td align="center"><b>6</b></td>
     <td>Accepted by maintainers</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">Upstream Commit</a></td>
-    <td align="center"><b>1+</b></td>
-    <td>Landed as author commit</td>
+    <td><a href="#representative-work">Upstream Author Commits</a></td>
+    <td align="center"><b>2+</b></td>
+    <td>Landed with author credit</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+is%3Aopen&type=pullrequests">Open PRs</a></td>
-    <td align="center"><b>18</b></td>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363+is%3Aopen&type=pullrequests">Open Upstream PRs</a></td>
+    <td align="center"><b>16</b></td>
     <td>Under review</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363&type=pullrequests">Upstream Repositories</a></td>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363&type=pullrequests">Upstream Repositories</a></td>
     <td align="center"><b>9</b></td>
     <td>AI infra ecosystem</td>
   </tr>
 </table>
 
-<!-- Profile README updated: 2026-07-17 -->
+<!-- Profile README updated: 2026-08-12 -->
 
 </div>
 
@@ -97,6 +98,11 @@ A compact map of my own projects and large open-source ecosystems I have contrib
     <td><b>Spring AI Alibaba</b></td>
     <td>Official ecosystem contributions around DashScope integration, Spring AI compatibility, docs, and RAG behavior.</td>
     <td><a href="https://github.com/alibaba/spring-ai-alibaba/pull/4755">PR</a> · <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">Commit</a></td>
+  </tr>
+  <tr>
+    <td><b>Hermes Agent</b></td>
+    <td>P0 MCP gateway reliability fix that stopped a timeout-spin traceback leak (~108 MB/s RSS growth) and silent OOM crashes; landed upstream with preserved authorship.</td>
+    <td><a href="https://github.com/NousResearch/hermes-agent/issues/63892">P0 Issue</a> · <a href="https://github.com/NousResearch/hermes-agent/commit/3df8bd3478b96d1665bf390c07630268ae522f7e">Commit</a> · <a href="https://github.com/NousResearch/hermes-agent/pull/67183">Merged PR</a></td>
   </tr>
   <tr>
     <td><b>LiteLLM</b></td>
