@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jupiter — Backend &amp; AI engineering</title>
+  <desc id="desc">Jupiter. Backend and AI engineering. CUHK-Shenzhen. A blue and sand illustration of Jupiter, its cloud bands, Great Red Spot, and two small moons on a pearl background.</desc>
+  <defs>
+    <clipPath id="planet-clip"><circle cx="956" cy="150" r="111"/></clipPath>
+    <linearGradient id="planet-shade" x1="845" y1="150" x2="1067" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#152B46" stop-opacity="0.15"/>
+      <stop offset="0.38" stop-color="#152B46" stop-opacity="0"/>
+      <stop offset="0.76" stop-color="#152B46" stop-opacity="0"/>
+      <stop offset="1" stop-color="#152B46" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <path fill="#F5F8FC" d="M0 0h1200v300H0z"/>
+  <g font-family="'Trebuchet MS', 'Segoe UI', Arial, sans-serif">
+    <text x="64" y="139" fill="#152B46" font-size="96" font-weight="700" letter-spacing="-4">Jupiter</text>
+    <text x="69" y="190" fill="#376DC9" font-size="30" font-weight="400">Backend &amp; AI engineering</text>
+    <text x="69" y="232" fill="#152B46" font-size="24" font-weight="400">CUHK-Shenzhen</text>
+  </g>
+  <path d="M780 233C757 147 811 63 896 35C987 5 1104 27 1139 84" fill="none" stroke="#376DC9" stroke-width="1.5" stroke-dasharray="3 8" stroke-linecap="round" opacity="0.3"/>
+  <g clip-path="url(#planet-clip)">
+    <circle cx="956" cy="150" r="111" fill="#D8B28A"/>
+    <path d="M833 61C875 69 892 62 927 66S1009 75 1078 60V83C1025 95 1001 86 961 89S891 80 833 87Z" fill="#F0DCC4"/>
+    <path d="M833 90C888 96 904 88 940 94S1015 101 1078 90V108C1027 120 1003 110 960 115S886 108 833 113Z" fill="#C28B62"/>
+    <path d="M833 115C879 117 902 112 936 118S1021 127 1078 117V129C1028 139 1003 131 963 135S880 127 833 132Z" fill="#F0DCC4"/>
+    <path d="M833 143C876 138 900 146 938 143S1015 139 1078 144V156C1014 151 995 158 955 154S876 159 833 155Z" fill="#C28B62"/>
+    <path d="M833 158C881 163 901 156 940 162S1022 167 1078 158V178C1023 188 995 177 954 181S882 176 833 183Z" fill="#F0DCC4"/>
+    <path d="M833 187C878 178 906 190 940 187S1017 182 1078 188V211C1018 204 996 213 955 207S881 216 833 208Z" fill="#C28B62"/>
+    <path d="M833 218C876 212 900 219 938 217S1016 224 1078 215V232C1017 239 994 232 952 237S880 228 833 234Z" fill="#F0DCC4"/>
+    <path d="M833 246C885 234 907 244 944 242S1012 251 1078 240V269H833Z" fill="#C28B62" opacity="0.5"/>
+    <path d="M852 102C888 109 906 101 934 106M979 110C1002 108 1025 113 1055 107M854 169C886 173 904 166 929 172M917 225C953 221 972 227 999 223" fill="none" stroke="#D8B28A" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    <ellipse cx="998" cy="196" rx="28" ry="12" transform="rotate(-8 998 196)" fill="#D8B28A"/>
+    <ellipse cx="999" cy="196" rx="20" ry="8" transform="rotate(-8 999 196)" fill="#A7654B"/>
+    <path d="M986 194C995 189 1005 190 1011 194" fill="none" stroke="#F0DCC4" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="956" cy="150" r="111" fill="url(#planet-shade)"/>
+  </g>
+  <circle cx="956" cy="150" r="110.5" fill="none" stroke="#152B46" stroke-opacity="0.09"/>
+  <circle cx="1139" cy="84" r="9" fill="#D8B28A"/>
+  <circle cx="1136" cy="81" r="2" fill="#C28B62" opacity="0.5"/>
+  <circle cx="1142" cy="87" r="3" fill="#C28B62" opacity="0.35"/>
+  <circle cx="780" cy="233" r="6" fill="#376DC9"/>
+</svg>

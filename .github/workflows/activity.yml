@@ -1,0 +1,64 @@
+name: Update Jupiter activity
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/activity.mjs'
+      - 'scripts/activity.test.mjs'
+      - '.github/workflows/activity.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: jupiter-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+
+      - name: Set up Node
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+
+      - name: Check calendar rendering
+        run: node --test scripts/activity.test.mjs
+
+      - name: Refresh both themes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: node scripts/activity.mjs --fetch "$PROFILE_LOGIN" --output-dir assets
+
+      - name: Save updated charts
+        shell: bash
+        run: |
+          git add -- assets/activity-light.svg assets/activity-dark.svg assets/activity-light-mobile.svg assets/activity-dark-mobile.svg
+          if git diff --cached --quiet; then
+            echo "Contribution charts are already current."
+            exit 0
+          fi
+          git fetch origin main
+          if [ "$(git rev-parse HEAD)" != "$(git rev-parse FETCH_HEAD)" ]; then
+            echo "The profile changed during this run. Retry to use the latest version."
+            exit 1
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh Jupiter contribution orbits'
+          git push origin HEAD:main
