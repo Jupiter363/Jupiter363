@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
 <title id="title">Jupiter&apos;s contribution orbits, Dec 1, 2025 to Nov 1, 2026</title>
-<desc id="desc">2997 contributions across 151 active days. Each orbit is one month, oldest inside and newest outside. One star represents one day; brighter and larger stars represent more contributions. Days run clockwise from the upper right. Future days are not drawn.</desc>
+<desc id="desc">2998 contributions across 154 active days. Each orbit is one month, oldest inside and newest outside. One star represents one day; brighter and larger stars represent more contributions. Days run clockwise from the upper right. Future days are not drawn.</desc>
 <defs><clipPath id="planet"><circle cx="866" cy="310" r="49"/></clipPath></defs>
 <rect width="1200" height="620" rx="16" fill="#F5F8FC"/>
 <g font-family="'Segoe UI', Arial, sans-serif" fill="#152B46">
 
 <text x="52" y="83" font-size="36" font-weight="650">A year in orbit</text>
 <text x="52" y="117" font-size="18" fill="#50647D">My contribution calendar</text>
-<text x="52" y="199" font-size="54" font-weight="650">2,997</text>
+<text x="52" y="199" font-size="54" font-weight="650">2,998</text>
 <text x="52" y="230" font-size="19" fill="#50647D">contributions</text>
-<text x="52" y="278" font-size="24" font-weight="600">151 active days</text>
+<text x="52" y="278" font-size="24" font-weight="600">154 active days</text>
 <text x="52" y="313" font-size="16" fill="#50647D">Dec 1, 2025 – Nov 1, 2026</text>
 <text x="52" y="378" font-size="18" font-weight="600">One star, one day</text>
 <text x="52" y="406" font-size="16" fill="#50647D">Brighter stars mean more contributions.</text>
@@ -204,13 +204,13 @@
 <circle data-date="2026-05-07" data-count="0" data-level="0" cx="1035.78" cy="318.61" r="1.7" fill="#CFD9E7"><title>2026-05-07: 0 contributions</title></circle>
 <circle data-date="2026-05-08" data-count="0" data-level="0" cx="1031.92" cy="347.03" r="1.7" fill="#CFD9E7"><title>2026-05-08: 0 contributions</title></circle>
 <circle data-date="2026-05-09" data-count="0" data-level="0" cx="1023.33" cy="374.39" r="1.7" fill="#CFD9E7"><title>2026-05-09: 0 contributions</title></circle>
-<circle data-date="2026-05-10" data-count="0" data-level="0" cx="1010.27" cy="399.92" r="1.7" fill="#CFD9E7"><title>2026-05-10: 0 contributions</title></circle>
-<circle data-date="2026-05-11" data-count="5" data-level="1" cx="993.10" cy="422.90" r="2.5" fill="#92B4DC"><title>2026-05-11: 5 contributions</title></circle>
+<circle data-date="2026-05-10" data-count="1" data-level="1" cx="1010.27" cy="399.92" r="2.5" fill="#92B4DC"><title>2026-05-10: 1 contribution</title></circle>
+<circle data-date="2026-05-11" data-count="4" data-level="1" cx="993.10" cy="422.90" r="2.5" fill="#92B4DC"><title>2026-05-11: 4 contributions</title></circle>
 <circle data-date="2026-05-12" data-count="0" data-level="0" cx="972.31" cy="442.66" r="1.7" fill="#CFD9E7"><title>2026-05-12: 0 contributions</title></circle>
 <circle data-date="2026-05-13" data-count="0" data-level="0" cx="948.50" cy="458.64" r="1.7" fill="#CFD9E7"><title>2026-05-13: 0 contributions</title></circle>
-<circle data-date="2026-05-14" data-count="0" data-level="0" cx="922.34" cy="470.39" r="1.7" fill="#CFD9E7"><title>2026-05-14: 0 contributions</title></circle>
-<circle data-date="2026-05-15" data-count="8" data-level="1" cx="894.58" cy="477.58" r="2.5" fill="#92B4DC"><title>2026-05-15: 8 contributions</title></circle>
-<circle data-date="2026-05-16" data-count="8" data-level="1" cx="866.00" cy="480.00" r="2.5" fill="#92B4DC"><title>2026-05-16: 8 contributions</title></circle>
+<circle data-date="2026-05-14" data-count="2" data-level="1" cx="922.34" cy="470.39" r="2.5" fill="#92B4DC"><title>2026-05-14: 2 contributions</title></circle>
+<circle data-date="2026-05-15" data-count="7" data-level="1" cx="894.58" cy="477.58" r="2.5" fill="#92B4DC"><title>2026-05-15: 7 contributions</title></circle>
+<circle data-date="2026-05-16" data-count="7" data-level="1" cx="866.00" cy="480.00" r="2.5" fill="#92B4DC"><title>2026-05-16: 7 contributions</title></circle>
 <circle data-date="2026-05-17" data-count="4" data-level="1" cx="837.42" cy="477.58" r="2.5" fill="#92B4DC"><title>2026-05-17: 4 contributions</title></circle>
 <circle data-date="2026-05-18" data-count="3" data-level="1" cx="809.66" cy="470.39" r="2.5" fill="#92B4DC"><title>2026-05-18: 3 contributions</title></circle>
 <circle data-date="2026-05-19" data-count="0" data-level="0" cx="783.50" cy="458.64" r="1.7" fill="#CFD9E7"><title>2026-05-19: 0 contributions</title></circle>
@@ -224,8 +224,8 @@
 <circle data-date="2026-05-27" data-count="1" data-level="1" cx="702.96" cy="261.86" r="2.5" fill="#92B4DC"><title>2026-05-27: 1 contribution</title></circle>
 <circle data-date="2026-05-28" data-count="0" data-level="0" cx="713.37" cy="235.13" r="1.7" fill="#CFD9E7"><title>2026-05-28: 0 contributions</title></circle>
 <circle data-date="2026-05-29" data-count="2" data-level="1" cx="728.13" cy="210.54" r="2.5" fill="#92B4DC"><title>2026-05-29: 2 contributions</title></circle>
-<circle data-date="2026-05-30" data-count="0" data-level="0" cx="746.81" cy="188.78" r="1.7" fill="#CFD9E7"><title>2026-05-30: 0 contributions</title></circle>
-<circle data-date="2026-05-31" data-count="22" data-level="1" cx="768.88" cy="170.47" r="2.5" fill="#92B4DC"><title>2026-05-31: 22 contributions</title></circle>
+<circle data-date="2026-05-30" data-count="1" data-level="1" cx="746.81" cy="188.78" r="2.5" fill="#92B4DC"><title>2026-05-30: 1 contribution</title></circle>
+<circle data-date="2026-05-31" data-count="21" data-level="1" cx="768.88" cy="170.47" r="2.5" fill="#92B4DC"><title>2026-05-31: 21 contributions</title></circle>
 <circle data-date="2026-06-01" data-count="4" data-level="1" cx="972.26" cy="157.34" r="2.5" fill="#92B4DC"><title>2026-06-01: 4 contributions</title></circle>
 <circle data-date="2026-06-02" data-count="2" data-level="1" cx="996.41" cy="177.37" r="2.5" fill="#92B4DC"><title>2026-06-02: 2 contributions</title></circle>
 <circle data-date="2026-06-03" data-count="0" data-level="0" cx="1016.85" cy="201.18" r="1.7" fill="#CFD9E7"><title>2026-06-03: 0 contributions</title></circle>
@@ -252,8 +252,8 @@
 <circle data-date="2026-06-24" data-count="3" data-level="1" cx="684.47" cy="350.51" r="2.5" fill="#92B4DC"><title>2026-06-24: 3 contributions</title></circle>
 <circle data-date="2026-06-25" data-count="1" data-level="1" cx="680.24" cy="319.42" r="2.5" fill="#92B4DC"><title>2026-06-25: 1 contribution</title></circle>
 <circle data-date="2026-06-26" data-count="9" data-level="1" cx="681.30" cy="288.06" r="2.5" fill="#92B4DC"><title>2026-06-26: 9 contributions</title></circle>
-<circle data-date="2026-06-27" data-count="7" data-level="1" cx="687.61" cy="257.32" r="2.5" fill="#92B4DC"><title>2026-06-27: 7 contributions</title></circle>
-<circle data-date="2026-06-28" data-count="15" data-level="1" cx="699.01" cy="228.09" r="2.5" fill="#92B4DC"><title>2026-06-28: 15 contributions</title></circle>
+<circle data-date="2026-06-27" data-count="8" data-level="1" cx="687.61" cy="257.32" r="2.5" fill="#92B4DC"><title>2026-06-27: 8 contributions</title></circle>
+<circle data-date="2026-06-28" data-count="14" data-level="1" cx="699.01" cy="228.09" r="2.5" fill="#92B4DC"><title>2026-06-28: 14 contributions</title></circle>
 <circle data-date="2026-06-29" data-count="4" data-level="1" cx="715.15" cy="201.18" r="2.5" fill="#92B4DC"><title>2026-06-29: 4 contributions</title></circle>
 <circle data-date="2026-06-30" data-count="1" data-level="1" cx="735.59" cy="177.37" r="2.5" fill="#92B4DC"><title>2026-06-30: 1 contribution</title></circle>
 <circle data-date="2026-07-01" data-count="0" data-level="0" cx="981.40" cy="144.21" r="1.7" fill="#CFD9E7"><title>2026-07-01: 0 contributions</title></circle>
@@ -261,16 +261,16 @@
 <circle data-date="2026-07-03" data-count="24" data-level="1" cx="1029.82" cy="191.82" r="2.5" fill="#92B4DC"><title>2026-07-03: 24 contributions</title></circle>
 <circle data-date="2026-07-04" data-count="5" data-level="1" cx="1047.36" cy="221.04" r="2.5" fill="#92B4DC"><title>2026-07-04: 5 contributions</title></circle>
 <circle data-date="2026-07-05" data-count="15" data-level="1" cx="1059.73" cy="252.79" r="2.5" fill="#92B4DC"><title>2026-07-05: 15 contributions</title></circle>
-<circle data-date="2026-07-06" data-count="31" data-level="2" cx="1066.59" cy="286.17" r="3.2" fill="#548BD2"><title>2026-07-06: 31 contributions</title></circle>
+<circle data-date="2026-07-06" data-count="32" data-level="2" cx="1066.59" cy="286.17" r="3.2" fill="#548BD2"><title>2026-07-06: 32 contributions</title></circle>
 <circle data-date="2026-07-07" data-count="42" data-level="2" cx="1067.74" cy="320.23" r="3.2" fill="#548BD2"><title>2026-07-07: 42 contributions</title></circle>
-<circle data-date="2026-07-08" data-count="23" data-level="1" cx="1063.15" cy="354.00" r="2.5" fill="#92B4DC"><title>2026-07-08: 23 contributions</title></circle>
+<circle data-date="2026-07-08" data-count="22" data-level="1" cx="1063.15" cy="354.00" r="2.5" fill="#92B4DC"><title>2026-07-08: 22 contributions</title></circle>
 <circle data-date="2026-07-09" data-count="25" data-level="1" cx="1052.95" cy="386.51" r="2.5" fill="#92B4DC"><title>2026-07-09: 25 contributions</title></circle>
 <circle data-date="2026-07-10" data-count="55" data-level="3" cx="1037.43" cy="416.85" r="3.9" fill="#376DC9"><title>2026-07-10: 55 contributions</title></circle>
 <circle data-date="2026-07-11" data-count="32" data-level="2" cx="1017.03" cy="444.15" r="3.2" fill="#548BD2"><title>2026-07-11: 32 contributions</title></circle>
 <circle data-date="2026-07-12" data-count="5" data-level="1" cx="992.33" cy="467.63" r="2.5" fill="#92B4DC"><title>2026-07-12: 5 contributions</title></circle>
 <circle data-date="2026-07-13" data-count="6" data-level="1" cx="964.03" cy="486.62" r="2.5" fill="#92B4DC"><title>2026-07-13: 6 contributions</title></circle>
-<circle data-date="2026-07-14" data-count="8" data-level="1" cx="932.95" cy="500.58" r="2.5" fill="#92B4DC"><title>2026-07-14: 8 contributions</title></circle>
-<circle data-date="2026-07-15" data-count="16" data-level="1" cx="899.96" cy="509.13" r="2.5" fill="#92B4DC"><title>2026-07-15: 16 contributions</title></circle>
+<circle data-date="2026-07-14" data-count="9" data-level="1" cx="932.95" cy="500.58" r="2.5" fill="#92B4DC"><title>2026-07-14: 9 contributions</title></circle>
+<circle data-date="2026-07-15" data-count="15" data-level="1" cx="899.96" cy="509.13" r="2.5" fill="#92B4DC"><title>2026-07-15: 15 contributions</title></circle>
 <circle data-date="2026-07-16" data-count="8" data-level="1" cx="866.00" cy="512.00" r="2.5" fill="#92B4DC"><title>2026-07-16: 8 contributions</title></circle>
 <circle data-date="2026-07-17" data-count="21" data-level="1" cx="832.04" cy="509.13" r="2.5" fill="#92B4DC"><title>2026-07-17: 21 contributions</title></circle>
 <circle data-date="2026-07-18" data-count="13" data-level="1" cx="799.05" cy="500.58" r="2.5" fill="#92B4DC"><title>2026-07-18: 13 contributions</title></circle>
@@ -289,12 +289,12 @@
 <circle data-date="2026-07-31" data-count="12" data-level="1" cx="750.60" cy="144.21" r="2.5" fill="#92B4DC"><title>2026-07-31: 12 contributions</title></circle>
 <circle data-date="2026-08-01" data-count="26" data-level="1" cx="990.54" cy="131.07" r="2.5" fill="#92B4DC"><title>2026-08-01: 26 contributions</title></circle>
 <circle data-date="2026-08-02" data-count="18" data-level="1" cx="1018.84" cy="154.55" r="2.5" fill="#92B4DC"><title>2026-08-02: 18 contributions</title></circle>
-<circle data-date="2026-08-03" data-count="14" data-level="1" cx="1042.80" cy="182.46" r="2.5" fill="#92B4DC"><title>2026-08-03: 14 contributions</title></circle>
-<circle data-date="2026-08-04" data-count="334" data-level="4" cx="1061.72" cy="213.99" r="4.7" fill="#A77532"><title>2026-08-04: 334 contributions</title></circle>
+<circle data-date="2026-08-03" data-count="15" data-level="1" cx="1042.80" cy="182.46" r="2.5" fill="#92B4DC"><title>2026-08-03: 15 contributions</title></circle>
+<circle data-date="2026-08-04" data-count="333" data-level="4" cx="1061.72" cy="213.99" r="4.7" fill="#A77532"><title>2026-08-04: 333 contributions</title></circle>
 <circle data-date="2026-08-05" data-count="80" data-level="4" cx="1075.07" cy="248.26" r="4.7" fill="#A77532"><title>2026-08-05: 80 contributions</title></circle>
 <circle data-date="2026-08-06" data-count="17" data-level="1" cx="1082.48" cy="284.29" r="2.5" fill="#92B4DC"><title>2026-08-06: 17 contributions</title></circle>
-<circle data-date="2026-08-07" data-count="7" data-level="1" cx="1083.72" cy="321.04" r="2.5" fill="#92B4DC"><title>2026-08-07: 7 contributions</title></circle>
-<circle data-date="2026-08-08" data-count="8" data-level="1" cx="1078.77" cy="357.48" r="2.5" fill="#92B4DC"><title>2026-08-08: 8 contributions</title></circle>
+<circle data-date="2026-08-07" data-count="8" data-level="1" cx="1083.72" cy="321.04" r="2.5" fill="#92B4DC"><title>2026-08-07: 8 contributions</title></circle>
+<circle data-date="2026-08-08" data-count="7" data-level="1" cx="1078.77" cy="357.48" r="2.5" fill="#92B4DC"><title>2026-08-08: 7 contributions</title></circle>
 <circle data-date="2026-08-09" data-count="90" data-level="4" cx="1067.76" cy="392.57" r="4.7" fill="#A77532"><title>2026-08-09: 90 contributions</title></circle>
 <circle data-date="2026-08-10" data-count="54" data-level="3" cx="1051.00" cy="425.31" r="3.9" fill="#376DC9"><title>2026-08-10: 54 contributions</title></circle>
 <circle data-date="2026-08-11" data-count="65" data-level="3" cx="1028.99" cy="454.77" r="3.9" fill="#376DC9"><title>2026-08-11: 65 contributions</title></circle>
@@ -371,15 +371,15 @@
 <circle data-date="2026-10-21" data-count="0" data-level="0" cx="679.09" cy="476.02" r="1.7" fill="#CFD9E7"><title>2026-10-21: 0 contributions</title></circle>
 <circle data-date="2026-10-22" data-count="4" data-level="1" cx="653.84" cy="442.24" r="2.5" fill="#92B4DC"><title>2026-10-22: 4 contributions</title></circle>
 <circle data-date="2026-10-23" data-count="0" data-level="0" cx="634.63" cy="404.69" r="1.7" fill="#CFD9E7"><title>2026-10-23: 0 contributions</title></circle>
-<circle data-date="2026-10-24" data-count="28" data-level="2" cx="622.00" cy="364.45" r="3.2" fill="#548BD2"><title>2026-10-24: 28 contributions</title></circle>
-<circle data-date="2026-10-25" data-count="46" data-level="2" cx="616.32" cy="322.66" r="3.2" fill="#548BD2"><title>2026-10-25: 46 contributions</title></circle>
+<circle data-date="2026-10-24" data-count="29" data-level="2" cx="622.00" cy="364.45" r="3.2" fill="#548BD2"><title>2026-10-24: 29 contributions</title></circle>
+<circle data-date="2026-10-25" data-count="45" data-level="2" cx="616.32" cy="322.66" r="3.2" fill="#548BD2"><title>2026-10-25: 45 contributions</title></circle>
 <circle data-date="2026-10-26" data-count="18" data-level="1" cx="617.75" cy="280.51" r="2.5" fill="#92B4DC"><title>2026-10-26: 18 contributions</title></circle>
 <circle data-date="2026-10-27" data-count="0" data-level="0" cx="626.24" cy="239.20" r="1.7" fill="#CFD9E7"><title>2026-10-27: 0 contributions</title></circle>
 <circle data-date="2026-10-28" data-count="0" data-level="0" cx="641.55" cy="199.90" r="1.7" fill="#CFD9E7"><title>2026-10-28: 0 contributions</title></circle>
 <circle data-date="2026-10-29" data-count="3" data-level="1" cx="663.25" cy="163.74" r="2.5" fill="#92B4DC"><title>2026-10-29: 3 contributions</title></circle>
 <circle data-date="2026-10-30" data-count="0" data-level="0" cx="690.72" cy="131.74" r="1.7" fill="#CFD9E7"><title>2026-10-30: 0 contributions</title></circle>
 <circle data-date="2026-10-31" data-count="5" data-level="1" cx="723.18" cy="104.81" r="2.5" fill="#92B4DC"><title>2026-10-31: 5 contributions</title></circle>
-<circle data-date="2026-11-01" data-count="2" data-level="1" cx="1017.96" cy="91.68" r="2.5" fill="#92B4DC"><title>2026-11-01: 2 contributions</title></circle>
+<circle data-date="2026-11-01" data-count="3" data-level="1" cx="1017.96" cy="91.68" r="2.5" fill="#92B4DC"><title>2026-11-01: 3 contributions</title></circle>
 <g clip-path="url(#planet)">
 <circle cx="866" cy="310" r="49" fill="#D8B28A"/>
 <path d="M811 276 Q858 287 922 277 L922 287 Q860 298 811 287Z M811 310 Q862 297 922 309 L922 322 Q864 315 811 325Z M811 343 Q863 332 922 344 L922 354 Q862 347 811 356Z" fill="#B8865C"/>
