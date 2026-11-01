@@ -1,57 +1,114 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/jupiter-dark.svg">
-  <img src="assets/jupiter-light.svg" alt="Jupiter — backend and AI engineering, CUHK-Shenzhen. An illustrated Jupiter and its moons." width="100%">
-</picture>
+<div align="center">
 
-<p align="center">
-  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
-  <a href="#open-source">Open source</a> &nbsp; / &nbsp;
-  <a href="#a-year-in-orbit">Activity</a>
-</p>
+# Hi, I'm Jupiter
 
-I'm **Jupiter**, a graduate student at **CUHK-Shenzhen** and a backend development engineer. I build AI applications and agent harnesses, with a focus on reliable LLM systems.
+&emsp;&emsp;Graduate student at The Chinese University of Hong Kong and backend development engineer, researching AI applications and agent harness engineering with a focus on production-grade LLM systems. Open-source contributor across Spring AI Alibaba, Hermes Agent, and AI infrastructure, including an upstream P0 reliability fix for Hermes Agent's MCP gateway.
 
-My work spans backend workflows, human review, MCP, and LLM gateways.
+</div>
 
-## Selected projects
+<h2 align="center">Tech Stack</h2>
 
-### [AfterSaleFlow-Agent](https://github.com/Jupiter363/AfterSaleFlow-Agent)
+<div align="center">
 
-A human-review-gated system for order fulfillment disputes. My work on agent harnesses, backend workflows, and AI applications in a single project.
+![Java](https://img.shields.io/badge/Java-9A6700?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0969DA?style=flat-square&logo=python&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-8250DF?style=flat-square&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F883D?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A3069?style=flat-square)
+![Agent Engineering](https://img.shields.io/badge/Agent_Engineering-8250DF?style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-0969DA?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### [shortlink](https://github.com/Jupiter363/shortlink)
+</div>
 
-A Java short-link service extended with agents for intelligent delivery and analysis.
+<h2 align="center">Open Source Focus Areas</h2>
 
-## Open source
+<div align="center">
 
-**[Hermes Agent](https://github.com/NousResearch/hermes-agent)**<br>
-Fixed an MCP gateway timeout loop that leaked memory and caused silent OOM crashes. The fix landed upstream with author credit.<br>
-[P0 issue #63892](https://github.com/NousResearch/hermes-agent/issues/63892) · [Upstream commit](https://github.com/NousResearch/hermes-agent/commit/3df8bd3478b96d1665bf390c07630268ae522f7e) · [Merged PR #67183](https://github.com/NousResearch/hermes-agent/pull/67183)
+![MCP](https://img.shields.io/badge/MCP-CF222E?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0A3069?style=flat-square)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-CF222E?style=flat-square)
+![LLM Gateway](https://img.shields.io/badge/LLM_Gateway-1F883D?style=flat-square)
+![Agent Frameworks](https://img.shields.io/badge/Agent_Frameworks-0969DA?style=flat-square)
+![Agent Runtime](https://img.shields.io/badge/Agent_Runtime-8250DF?style=flat-square)
+![Spring AI Ecosystem](https://img.shields.io/badge/Spring_AI_Ecosystem-9A6700?style=flat-square)
 
-**[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba)**<br>
-Contributions around DashScope integration, Spring AI compatibility, documentation, and RAG behavior.<br>
-[PR #4755](https://github.com/alibaba/spring-ai-alibaba/pull/4755) · [Upstream commit](https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb)
+</div>
 
-**[LiteLLM](https://github.com/BerriAI/litellm)**<br>
-Contribution work on MCP protocol edge cases, LLM gateway routing, and passthrough security.<br>
-[PR #32244](https://github.com/BerriAI/litellm/pull/32244)
+<h2 align="center">Open Source Contribution Dashboard</h2>
 
-## Tools I work with
+<div align="center">
 
-| Backend | AI & agents | Frontend |
-| :--- | :--- | :--- |
-| Java · Spring AI | Python · LangChain · LangGraph · MCP | Vue |
+A focused dashboard for contributions to large open-source projects, with direct evidence links.
 
-## A year in orbit
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Count</th>
+    <th>Signal</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363+is%3Amerged&type=pullrequests">Merged Upstream PRs</a></td>
+    <td align="center"><b>6</b></td>
+    <td>Accepted by maintainers</td>
+  </tr>
+  <tr>
+    <td><a href="#representative-work">Upstream Author Commits</a></td>
+    <td align="center"><b>2+</b></td>
+    <td>Landed with author credit</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363+is%3Aopen&type=pullrequests">Open Upstream PRs</a></td>
+    <td align="center"><b>16</b></td>
+    <td>Under review</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363&type=pullrequests">Upstream Repositories</a></td>
+    <td align="center"><b>9</b></td>
+    <td>AI infra ecosystem</td>
+  </tr>
+</table>
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/activity-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/activity-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="My GitHub contribution calendar as twelve monthly orbits around Jupiter. Each star is one day; brighter, larger stars mean more contributions." width="100%">
-</picture>
+<!-- Profile README updated: 2026-08-12 -->
 
-<sub>Real contribution data, refreshed daily. <a href="docs/activity.md">How the chart works</a>.</sub>
+</div>
 
-[Merged upstream PRs](https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363+is%3Amerged&type=pullrequests) · [Under review](https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363+is%3Aopen&type=pullrequests) · [All upstream PRs](https://github.com/search?q=is%3Apr+author%3AJupiter363+-user%3AJupiter363&type=pullrequests)
+<h2 align="center">Representative Work</h2>
+
+<div align="center">
+
+A compact map of my own projects and large open-source ecosystems I have contributed to.
+
+<table>
+  <tr>
+    <th>Work</th>
+    <th>Why it matters</th>
+    <th>Evidence</th>
+  </tr>
+  <tr>
+    <td><b>AfterSaleFlow-Agent</b></td>
+    <td>Own project for production-style agent harness, backend workflow, and human-review-gated AI applications.</td>
+    <td><a href="https://github.com/Jupiter363/AfterSaleFlow-Agent">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>shortlink</b></td>
+    <td>Own Java service project extended with intelligent delivery and analysis agent capabilities.</td>
+    <td><a href="https://github.com/Jupiter363/shortlink">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Spring AI Alibaba</b></td>
+    <td>Official ecosystem contributions around DashScope integration, Spring AI compatibility, docs, and RAG behavior.</td>
+    <td><a href="https://github.com/alibaba/spring-ai-alibaba/pull/4755">PR</a> · <a href="https://github.com/spring-ai-alibaba/spring-ai-extensions/commit/b894e830633bd99d0e4e007a22a45061ee951bdb">Commit</a></td>
+  </tr>
+  <tr>
+    <td><b>Hermes Agent</b></td>
+    <td>P0 MCP gateway reliability fix that stopped a timeout-spin traceback leak (~108 MB/s RSS growth) and silent OOM crashes; landed upstream with preserved authorship.</td>
+    <td><a href="https://github.com/NousResearch/hermes-agent/issues/63892">P0 Issue</a> · <a href="https://github.com/NousResearch/hermes-agent/commit/3df8bd3478b96d1665bf390c07630268ae522f7e">Commit</a> · <a href="https://github.com/NousResearch/hermes-agent/pull/67183">Merged PR</a></td>
+  </tr>
+  <tr>
+    <td><b>LiteLLM</b></td>
+    <td>Large OSS contribution work around MCP protocol edge cases, LLM gateway routing, and passthrough security details.</td>
+    <td><a href="https://github.com/BerriAI/litellm/pull/32244">PRs</a></td>
+  </tr>
+</table>
+
+</div>
